@@ -9,6 +9,6 @@ a {
 a:hover {
 	color:green;
 }
-{
-	div=gallery width:200%;
+div.class {
+	widthP:200%;
 }
