@@ -1,10 +1,10 @@
 body {
-	background-color:red;
+	background-color:purple;
 	background-repeat:no-repeat;
 	background-position:center;
 }
 a {
-	color:purple;
+	color:red;
 }
 a:hover {
 	color:green;
