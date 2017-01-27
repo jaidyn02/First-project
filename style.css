@@ -10,5 +10,5 @@ a:hover {
 	color:green;
 }
 div.gallery {
-	width.100%
+	max-width: 500px;
 }
