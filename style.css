@@ -8,7 +8,14 @@ a {
 }
 a:hover {
 	color:green;
-a.button,ul.menu{
+a.button,div.menu{
 float:left;
 }
-a.button	
+a.button{
+	background-color:#cc0000;
+	border:1px solid #660000;
+	border-radius:5px;
+	color:#fff;
+	margin-right:10px;
+	padding:10px 10px 10px 10px;
+	}
