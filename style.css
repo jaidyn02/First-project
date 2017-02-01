@@ -9,6 +9,9 @@ a {
 a:hover {
 	color:green;
 }
+a{
+text-decoration:none;
+color:#cc0000;	
 a.button,div.menu{
 float:left;
 }
