@@ -8,3 +8,7 @@ a {
 }
 a:hover {
 	color:green;
+a.button,ul.menu{
+float:left;
+}
+a.button	
