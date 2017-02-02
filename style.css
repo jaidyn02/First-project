@@ -2,6 +2,8 @@ body {
 	background-color:red;
 	background-repeat:no-repeat;
 	background-position:center;
+	padding:0%;
+	margin:0%;
 }
 a {
 	color:purple;
