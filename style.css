@@ -19,7 +19,7 @@ a.button,div.container{
 	float:left;
 }
 a.button{
-	background-color:#cc0000;
+	background:url(/images/Button image.jpg) no repeat;
 	border:1px solid #660000;
 	border-radius:5px;
 	color:#fff;
